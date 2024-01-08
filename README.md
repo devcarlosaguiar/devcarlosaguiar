@@ -1,0 +1,2 @@
+- Hi, I’m Carlos Aguiar
+- Malware analyst | Exploit developer
