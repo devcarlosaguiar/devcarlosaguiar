@@ -1,3 +1,2 @@
 - Hi, I’m Carlos Aguiar
-- Electronics Technician and undergraduate student in Cyber Defense.
-- Assembly and C/C++, integrating my academic learning in Malware Analysis and Exploit Development
+- Currently, I have been focusing my studies on web development, using technologies such as HTML, CSS, JavaScript, and PHP. I am also actively engaged in BugBounty platforms where I seize the opportunity to enhance my knowledge in web security by identifying vulnerabilities and reporting them.
