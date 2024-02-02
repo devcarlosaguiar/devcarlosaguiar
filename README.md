@@ -1,2 +1,2 @@
 - Hi, I’m Carlos Aguiar
-- Currently, I have been focusing my studies on web development, using technologies such as HTML, CSS, JavaScript, and PHP. I am also actively engaged in BugBounty platforms where I seize the opportunity to enhance my knowledge in web security by identifying vulnerabilities and reporting them.
+- Professional with technical training in Electronics and a degree in Cyber Defense, I have devoted my studies to the security of mobile devices through challenges and bug bounty platforms. I am looking for new opportunities to enter this field, where I can contribute with my knowledge. 
